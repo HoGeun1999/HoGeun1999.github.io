@@ -1,0 +1,66 @@
+#table2048 td {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    margin-left: 30%;
+    margin-top: 100px;
+}
+
+#score{
+    margin-left: 470px;
+    padding-bottom: 20px;
+    font-size: 30;
+}
+
+.td0{
+    background-attachment: white;
+}
+
+.td2{
+    background-color: bisque;
+}
+
+.td4{
+    background-color: aqua;
+}
+
+.td8{
+    background-color: plum;
+}
+
+.td16{
+    background-color: rgb(45, 177, 126);
+}
+
+.td32{
+    background-color: rgb(209, 98, 98);
+}
+
+.td64{
+    background-color: rgb(98, 98, 224);
+}
+
+.td128{
+    background-color: rgb(154, 204, 39);
+}
+
+.td256{
+    background-color: aliceblue;
+}
+
+.td512{
+    background-color: blueviolet;
+}
+
+.td1024{
+    background-color: rgb(189, 207, 22);
+}
+
+.td2048{
+    background-color: orangered;
+}
